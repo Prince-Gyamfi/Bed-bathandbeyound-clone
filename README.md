@@ -5,8 +5,8 @@ This project is a functional clone of the renowned home goods website "bedbathan
     ● CSS
     ● Javascript
     
-This project is clone of "bedbathandbeyond.com" and we gave another name to our clone project is "Bath Kit".
-we build following 5 Pages of this website :-
+This project is clone of "bedbathandbeyond.com" and gave another name to the clone project is "Bath Kit".
+
 
 ● Home Page (index.html , home-page.css &  home-page.js) 
     
